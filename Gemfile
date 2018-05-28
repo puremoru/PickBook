@@ -16,6 +16,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'bootstrap-sass'
 gem 'jquery-rails'
 gem 'data-confirm-modal'
+gem 'bulma-rails'
 
 # # エラー画面をわかりやすく整形してくれる
 # gem 'better_errors'
